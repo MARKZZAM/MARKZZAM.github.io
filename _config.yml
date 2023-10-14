@@ -58,7 +58,7 @@ comments:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
-  siteKey                :
+  siteKey                : ## 
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
